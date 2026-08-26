@@ -109,7 +109,7 @@ const Footer = () => {
         </div>
 
         {/* Bottom Line */}
-        <div className="text-sm text-gray-400 border-t border-gray-700 pt-4">
+        <div className="text-center text-sm text-gray-400 border-t border-gray-700 pt-4">
           © {new Date().getFullYear()} RideNow | Developed by DevCode
           Programmers. All rights reserved.
         </div>

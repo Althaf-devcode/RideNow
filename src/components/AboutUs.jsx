@@ -1,6 +1,6 @@
 import React from 'react'
 import { FaGlobeAsia, FaHandshake, FaRegSmileBeam } from 'react-icons/fa'
-import img from "../assets/About-Us.png"
+import img from "../assets/About-us.png"
 
 const points = [
     {

@@ -1,23 +1,27 @@
 import React from 'react'
 import { FaStar } from 'react-icons/fa';
+import user1 from "../assets/user1.png";
+import user2 from "../assets/user2.png";
+import user3 from "../assets/user3.png";
 
 const reviews = [
     {
         name: "Aman verma",
         review: "Absolutely smooth experience! Booking was simple and the car was in perfect condition. Will use again.",
-        image: "src/assets/user1.png",
+        image: user1,
         rating: 5,
     },
+    
     {
         name: "Priya Sharma",
         review: "Super convenient and affordable! Loved the flexibility and customer service. Highly recommended.",
-        image: "src/assets/user2.png",
+        image: user2,
         rating: 4,
     },
     {
         name: "Rahul Mehta",
         review: "Great selection of cars and fast support. The ride was smooth and pickup/drop was on time.",
-        image: "src/assets/user3.png",
+        image: user3,
         rating: 5,
     }
 ];
